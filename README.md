@@ -1,7 +1,7 @@
 Tattslotto results, Siri style!
 ==============================================
 
-This is a plugin for SiriProxy that returns the winning number for Tattslotto, Powerball and Super 66.
+This is a plugin for SiriProxy that returns the winning numbers for Tattslotto and Powerball.
 
 NOTE: This plugin only applies to Australia.
 
